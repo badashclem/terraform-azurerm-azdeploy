@@ -1,2 +1,2 @@
-# terraform-azurerm-azdeploy
+# terraform-azurerm-deploy
 Terraform configuration for Azure infrastructure.
