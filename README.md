@@ -1,2 +1,2 @@
 # terraform-azurerm-azdeploy
-Azure Lab
+Terraform configuration for Azure infrastructure.
